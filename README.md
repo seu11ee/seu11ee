@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning ...
 - iOS
-- BlockChain
-- Web Development
 
 📫 How to reach me: ...
 - IG <a href="www.instagram.com/seu11ee">@seu11ee</a>
