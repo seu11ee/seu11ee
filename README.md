@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 🔭 I’m currently working on ...
-- Team Mongle
+- Team Weathy
 
 🌱 I’m currently learning ...
 - iOS
